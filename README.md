@@ -1,1 +1,1 @@
-The slides I used in ISWC_2018
+The [slides](https://slides.iswc-2018.cristianvasquez.me) I used in ISWC_2018
